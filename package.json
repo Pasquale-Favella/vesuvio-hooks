@@ -1,6 +1,6 @@
 {
   "name": "vesuvio-hooks",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React hooks utility library",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,11 @@
   "peerDependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
-  }
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "hook",
+    "storage"
+  ]
 }
