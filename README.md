@@ -20,13 +20,11 @@ export const Exemple = ()=>{
   const [value , setValue] = useDebounceStorage("value","default",StorageType.local,200);
 
   return (
-    <div >
       <div>
         <input onChange={(e)=>setValue(e.target.value)}/>
         <br/>
         {value}
       </div>
-    </div>
   );
 }
 ```
