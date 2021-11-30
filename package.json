@@ -1,8 +1,8 @@
 {
   "name": "vesuvio-hooks",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "React hooks utility library",
-  "main": "index.js",
+  "main": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
