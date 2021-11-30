@@ -1,6 +1,6 @@
 # vesuvio-hooks
 
-vesuvio-hooks is a Reactr Hook library for dealing with session and local storage
+vesuvio-hooks is a React Hook library for dealing with session and local storage
 
 ## Installation
 
